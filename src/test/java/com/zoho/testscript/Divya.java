@@ -6,6 +6,6 @@ import org.testng.annotations.Test;
 public class Divya {
 	@Test
 	public void createContact() {
-		Reporter.log("Created", true);
+		Reporter.log("Created a class", true);
 	}
 }
