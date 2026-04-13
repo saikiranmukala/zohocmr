@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class nidhi {
 	@Test
 	public void createcampin() throws InterruptedException {
-		Reporter.log("created newS", true);
+		Reporter.log("created new", true);
 
 		
 }
